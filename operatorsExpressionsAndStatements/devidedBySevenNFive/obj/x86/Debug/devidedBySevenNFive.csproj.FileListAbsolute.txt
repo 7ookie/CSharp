@@ -1,0 +1,5 @@
+c:\documents and settings\54\my documents\visual studio 2010\Projects\operatorsExpressionsAndStatements\devidedBySevenNFive\bin\Debug\devidedBySevenNFive.exe
+c:\documents and settings\54\my documents\visual studio 2010\Projects\operatorsExpressionsAndStatements\devidedBySevenNFive\bin\Debug\devidedBySevenNFive.pdb
+c:\documents and settings\54\my documents\visual studio 2010\Projects\operatorsExpressionsAndStatements\devidedBySevenNFive\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\54\my documents\visual studio 2010\Projects\operatorsExpressionsAndStatements\devidedBySevenNFive\obj\x86\Debug\devidedBySevenNFive.exe
+c:\documents and settings\54\my documents\visual studio 2010\Projects\operatorsExpressionsAndStatements\devidedBySevenNFive\obj\x86\Debug\devidedBySevenNFive.pdb

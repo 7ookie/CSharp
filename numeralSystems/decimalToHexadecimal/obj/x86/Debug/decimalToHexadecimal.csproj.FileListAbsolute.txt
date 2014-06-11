@@ -1,0 +1,5 @@
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\numeralSystems\decimalToHexadecimal\bin\Debug\decimalToHexadecimal.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\numeralSystems\decimalToHexadecimal\bin\Debug\decimalToHexadecimal.pdb
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\numeralSystems\decimalToHexadecimal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\numeralSystems\decimalToHexadecimal\obj\x86\Debug\decimalToHexadecimal.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\numeralSystems\decimalToHexadecimal\obj\x86\Debug\decimalToHexadecimal.pdb

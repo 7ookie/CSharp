@@ -1,0 +1,5 @@
+c:\documents and settings\54\my documents\visual studio 2010\Projects\primitiveDataTypes\hexadecimalRepresentation\bin\Debug\hexadecimalRepresentation.exe
+c:\documents and settings\54\my documents\visual studio 2010\Projects\primitiveDataTypes\hexadecimalRepresentation\bin\Debug\hexadecimalRepresentation.pdb
+c:\documents and settings\54\my documents\visual studio 2010\Projects\primitiveDataTypes\hexadecimalRepresentation\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\54\my documents\visual studio 2010\Projects\primitiveDataTypes\hexadecimalRepresentation\obj\x86\Debug\hexadecimalRepresentation.exe
+c:\documents and settings\54\my documents\visual studio 2010\Projects\primitiveDataTypes\hexadecimalRepresentation\obj\x86\Debug\hexadecimalRepresentation.pdb

@@ -1,0 +1,5 @@
+c:\documents and settings\54\my documents\visual studio 2010\Projects\operatorsExpressionsAndStatements\checkIsOddOrEven\bin\Debug\checkIsOddOrEven.exe
+c:\documents and settings\54\my documents\visual studio 2010\Projects\operatorsExpressionsAndStatements\checkIsOddOrEven\bin\Debug\checkIsOddOrEven.pdb
+c:\documents and settings\54\my documents\visual studio 2010\Projects\operatorsExpressionsAndStatements\checkIsOddOrEven\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\54\my documents\visual studio 2010\Projects\operatorsExpressionsAndStatements\checkIsOddOrEven\obj\x86\Debug\checkIsOddOrEven.exe
+c:\documents and settings\54\my documents\visual studio 2010\Projects\operatorsExpressionsAndStatements\checkIsOddOrEven\obj\x86\Debug\checkIsOddOrEven.pdb

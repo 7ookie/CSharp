@@ -1,0 +1,5 @@
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\numeralSystems\hexadecimalToBinary\bin\Debug\hexadecimalToBinary.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\numeralSystems\hexadecimalToBinary\bin\Debug\hexadecimalToBinary.pdb
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\numeralSystems\hexadecimalToBinary\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\numeralSystems\hexadecimalToBinary\obj\x86\Debug\hexadecimalToBinary.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\numeralSystems\hexadecimalToBinary\obj\x86\Debug\hexadecimalToBinary.pdb

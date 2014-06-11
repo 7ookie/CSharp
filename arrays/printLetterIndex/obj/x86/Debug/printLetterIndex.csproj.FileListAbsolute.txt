@@ -1,0 +1,5 @@
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\arrays\printLetterIndex\bin\Debug\printLetterIndex.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\arrays\printLetterIndex\bin\Debug\printLetterIndex.pdb
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\arrays\printLetterIndex\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\arrays\printLetterIndex\obj\x86\Debug\printLetterIndex.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\arrays\printLetterIndex\obj\x86\Debug\printLetterIndex.pdb

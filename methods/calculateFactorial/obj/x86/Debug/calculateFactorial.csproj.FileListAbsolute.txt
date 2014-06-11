@@ -1,0 +1,10 @@
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\methods\calculateFactorial\bin\Debug\calculateFactorial.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\methods\calculateFactorial\bin\Debug\calculateFactorial.pdb
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\methods\calculateFactorial\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\methods\calculateFactorial\obj\x86\Debug\calculateFactorial.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\methods\calculateFactorial\obj\x86\Debug\calculateFactorial.pdb
+C:\Users\Tsvetoslav\Documents\Visual Studio 2012\Projects\methods\calculateFactorial\obj\x86\Debug\calculateFactorial.exe
+C:\Users\Tsvetoslav\Documents\Visual Studio 2012\Projects\methods\calculateFactorial\obj\x86\Debug\calculateFactorial.pdb
+C:\Users\Tsvetoslav\Documents\Visual Studio 2012\Projects\methods\calculateFactorial\bin\Debug\calculateFactorial.exe
+C:\Users\Tsvetoslav\Documents\Visual Studio 2012\Projects\methods\calculateFactorial\bin\Debug\calculateFactorial.pdb
+C:\Users\Tsvetoslav\Documents\Visual Studio 2012\Projects\methods\calculateFactorial\obj\x86\Debug\calculateFactorial.csprojResolveAssemblyReference.cache

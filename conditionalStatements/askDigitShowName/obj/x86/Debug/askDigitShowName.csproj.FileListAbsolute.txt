@@ -1,0 +1,5 @@
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\conditionalStatements\askDigitShowName\bin\Debug\askDigitShowName.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\conditionalStatements\askDigitShowName\bin\Debug\askDigitShowName.pdb
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\conditionalStatements\askDigitShowName\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\conditionalStatements\askDigitShowName\obj\x86\Debug\askDigitShowName.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\conditionalStatements\askDigitShowName\obj\x86\Debug\askDigitShowName.pdb

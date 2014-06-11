@@ -1,0 +1,5 @@
+c:\documents and settings\54\my documents\visual studio 2010\Projects\primitiveDataTypes\quotationsCausesDiff\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\54\my documents\visual studio 2010\Projects\primitiveDataTypes\quotationsCausesDiff\bin\Debug\quotationsCausesDiff.exe
+c:\documents and settings\54\my documents\visual studio 2010\Projects\primitiveDataTypes\quotationsCausesDiff\bin\Debug\quotationsCausesDiff.pdb
+c:\documents and settings\54\my documents\visual studio 2010\Projects\primitiveDataTypes\quotationsCausesDiff\obj\x86\Debug\quotationsCausesDiff.exe
+c:\documents and settings\54\my documents\visual studio 2010\Projects\primitiveDataTypes\quotationsCausesDiff\obj\x86\Debug\quotationsCausesDiff.pdb

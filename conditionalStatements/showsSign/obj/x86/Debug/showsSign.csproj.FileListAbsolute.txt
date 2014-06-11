@@ -1,0 +1,5 @@
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\conditionalStatements\showsSign\bin\Debug\showsSign.exe
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\conditionalStatements\showsSign\bin\Debug\showsSign.pdb
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\conditionalStatements\showsSign\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\conditionalStatements\showsSign\obj\x86\Debug\showsSign.exe
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\conditionalStatements\showsSign\obj\x86\Debug\showsSign.pdb

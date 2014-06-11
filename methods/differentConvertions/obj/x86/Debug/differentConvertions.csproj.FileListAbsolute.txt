@@ -1,0 +1,10 @@
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\methods\differentConvertions\bin\Debug\differentConvertions.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\methods\differentConvertions\bin\Debug\differentConvertions.pdb
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\methods\differentConvertions\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\methods\differentConvertions\obj\x86\Debug\differentConvertions.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\methods\differentConvertions\obj\x86\Debug\differentConvertions.pdb
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\methods\differentConvertions\bin\Debug\differentConvertions.exe
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\methods\differentConvertions\bin\Debug\differentConvertions.pdb
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\methods\differentConvertions\obj\x86\Debug\differentConvertions.exe
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\methods\differentConvertions\obj\x86\Debug\differentConvertions.pdb
+C:\Users\Tsvetoslav\Documents\Visual Studio 2012\Projects\methods\differentConvertions\obj\x86\Debug\differentConvertions.csprojResolveAssemblyReference.cache

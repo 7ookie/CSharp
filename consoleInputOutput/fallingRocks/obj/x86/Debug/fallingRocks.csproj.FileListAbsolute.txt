@@ -1,0 +1,5 @@
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\consoleInputOutput\fallingRocks\bin\Debug\fallingRocks.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\consoleInputOutput\fallingRocks\bin\Debug\fallingRocks.pdb
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\consoleInputOutput\fallingRocks\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\consoleInputOutput\fallingRocks\obj\x86\Debug\fallingRocks.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\consoleInputOutput\fallingRocks\obj\x86\Debug\fallingRocks.pdb

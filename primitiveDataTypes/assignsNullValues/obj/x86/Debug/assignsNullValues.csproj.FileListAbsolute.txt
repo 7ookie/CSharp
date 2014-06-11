@@ -1,0 +1,5 @@
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\primitiveDataTypes\assignsNullValues\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\primitiveDataTypes\assignsNullValues\bin\Debug\assignsNullValues.exe
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\primitiveDataTypes\assignsNullValues\bin\Debug\assignsNullValues.pdb
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\primitiveDataTypes\assignsNullValues\obj\x86\Debug\assignsNullValues.exe
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\primitiveDataTypes\assignsNullValues\obj\x86\Debug\assignsNullValues.pdb

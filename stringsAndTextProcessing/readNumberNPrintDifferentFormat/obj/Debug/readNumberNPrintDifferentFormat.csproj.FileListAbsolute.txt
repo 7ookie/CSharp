@@ -1,0 +1,6 @@
+C:\Users\Tsvetoslav\Documents\Visual Studio 2012\Projects\stringsAndTextProcessing\readNumberNPrintDifferentFormat\bin\Debug\readNumberNPrintDifferentFormat.exe.config
+C:\Users\Tsvetoslav\Documents\Visual Studio 2012\Projects\stringsAndTextProcessing\readNumberNPrintDifferentFormat\bin\Debug\readNumberNPrintDifferentFormat.exe
+C:\Users\Tsvetoslav\Documents\Visual Studio 2012\Projects\stringsAndTextProcessing\readNumberNPrintDifferentFormat\bin\Debug\readNumberNPrintDifferentFormat.pdb
+C:\Users\Tsvetoslav\Documents\Visual Studio 2012\Projects\stringsAndTextProcessing\readNumberNPrintDifferentFormat\obj\Debug\readNumberNPrintDifferentFormat.csprojResolveAssemblyReference.cache
+C:\Users\Tsvetoslav\Documents\Visual Studio 2012\Projects\stringsAndTextProcessing\readNumberNPrintDifferentFormat\obj\Debug\readNumberNPrintDifferentFormat.exe
+C:\Users\Tsvetoslav\Documents\Visual Studio 2012\Projects\stringsAndTextProcessing\readNumberNPrintDifferentFormat\obj\Debug\readNumberNPrintDifferentFormat.pdb

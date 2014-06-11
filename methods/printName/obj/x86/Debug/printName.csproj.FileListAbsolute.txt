@@ -1,0 +1,10 @@
+c:\documents and settings\54\my documents\visual studio 2010\Projects\methods\printName\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\54\my documents\visual studio 2010\Projects\methods\printName\bin\Debug\printName.exe
+c:\documents and settings\54\my documents\visual studio 2010\Projects\methods\printName\bin\Debug\printName.pdb
+c:\documents and settings\54\my documents\visual studio 2010\Projects\methods\printName\obj\x86\Debug\printName.exe
+c:\documents and settings\54\my documents\visual studio 2010\Projects\methods\printName\obj\x86\Debug\printName.pdb
+C:\Users\Tsvetoslav\Documents\Visual Studio 2012\Projects\methods\printName\obj\x86\Debug\printName.exe
+C:\Users\Tsvetoslav\Documents\Visual Studio 2012\Projects\methods\printName\obj\x86\Debug\printName.pdb
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\methods\printName\bin\Debug\printName.exe
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\methods\printName\bin\Debug\printName.pdb
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\methods\printName\obj\x86\Debug\printName.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\arrays\compareTwoCharArrays\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\arrays\compareTwoCharArrays\bin\Debug\compareTwoCharArrays.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\arrays\compareTwoCharArrays\bin\Debug\compareTwoCharArrays.pdb
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\arrays\compareTwoCharArrays\obj\x86\Debug\compareTwoCharArrays.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\arrays\compareTwoCharArrays\obj\x86\Debug\compareTwoCharArrays.pdb

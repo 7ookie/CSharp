@@ -1,0 +1,9 @@
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\methods\sumPositiveDigits\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\methods\sumPositiveDigits\bin\Debug\sumPositiveDigits.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\methods\sumPositiveDigits\bin\Debug\sumPositiveDigits.pdb
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\methods\sumPositiveDigits\obj\x86\Debug\sumPositiveDigits.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\methods\sumPositiveDigits\obj\x86\Debug\sumPositiveDigits.pdb
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\methods\sumPositiveDigits\bin\Debug\sumPositiveDigits.exe
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\methods\sumPositiveDigits\bin\Debug\sumPositiveDigits.pdb
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\methods\sumPositiveDigits\obj\x86\Debug\sumPositiveDigits.exe
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\methods\sumPositiveDigits\obj\x86\Debug\sumPositiveDigits.pdb

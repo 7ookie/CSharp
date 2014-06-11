@@ -1,0 +1,9 @@
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\methods\neighborComparisonInArray\bin\Debug\neighborComparisonInArray.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\methods\neighborComparisonInArray\bin\Debug\neighborComparisonInArray.pdb
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\methods\neighborComparisonInArray\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\methods\neighborComparisonInArray\obj\x86\Debug\neighborComparisonInArray.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\methods\neighborComparisonInArray\obj\x86\Debug\neighborComparisonInArray.pdb
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\methods\neighborComparisonInArray\bin\Debug\neighborComparisonInArray.exe
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\methods\neighborComparisonInArray\bin\Debug\neighborComparisonInArray.pdb
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\methods\neighborComparisonInArray\obj\x86\Debug\neighborComparisonInArray.exe
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\methods\neighborComparisonInArray\obj\x86\Debug\neighborComparisonInArray.pdb

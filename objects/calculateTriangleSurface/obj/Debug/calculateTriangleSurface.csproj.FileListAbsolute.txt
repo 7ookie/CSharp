@@ -1,0 +1,6 @@
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\objects\calculateTriangleSurface\bin\Debug\calculateTriangleSurface.exe.config
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\objects\calculateTriangleSurface\bin\Debug\calculateTriangleSurface.exe
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\objects\calculateTriangleSurface\bin\Debug\calculateTriangleSurface.pdb
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\objects\calculateTriangleSurface\obj\Debug\calculateTriangleSurface.csprojResolveAssemblyReference.cache
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\objects\calculateTriangleSurface\obj\Debug\calculateTriangleSurface.exe
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\objects\calculateTriangleSurface\obj\Debug\calculateTriangleSurface.pdb

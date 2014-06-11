@@ -1,0 +1,5 @@
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\loops\greatestCommonDivisor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\loops\greatestCommonDivisor\bin\Debug\greatestCommonDivisor.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\loops\greatestCommonDivisor\bin\Debug\greatestCommonDivisor.pdb
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\loops\greatestCommonDivisor\obj\x86\Debug\greatestCommonDivisor.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\loops\greatestCommonDivisor\obj\x86\Debug\greatestCommonDivisor.pdb

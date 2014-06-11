@@ -1,0 +1,6 @@
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\trimProject\bin\Debug\trimProject.exe.config
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\trimProject\bin\Debug\trimProject.exe
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\trimProject\bin\Debug\trimProject.pdb
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\trimProject\obj\Debug\trimProject.csprojResolveAssemblyReference.cache
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\trimProject\obj\Debug\trimProject.exe
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\trimProject\obj\Debug\trimProject.pdb

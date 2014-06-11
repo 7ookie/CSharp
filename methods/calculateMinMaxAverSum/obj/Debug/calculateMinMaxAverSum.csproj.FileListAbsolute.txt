@@ -1,0 +1,6 @@
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\methods\calculateMinMaxAverSum\bin\Debug\calculateMinMaxAverSum.exe.config
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\methods\calculateMinMaxAverSum\bin\Debug\calculateMinMaxAverSum.exe
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\methods\calculateMinMaxAverSum\bin\Debug\calculateMinMaxAverSum.pdb
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\methods\calculateMinMaxAverSum\obj\Debug\calculateMinMaxAverSum.csprojResolveAssemblyReference.cache
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\methods\calculateMinMaxAverSum\obj\Debug\calculateMinMaxAverSum.exe
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\methods\calculateMinMaxAverSum\obj\Debug\calculateMinMaxAverSum.pdb

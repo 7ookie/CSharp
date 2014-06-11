@@ -1,0 +1,6 @@
+c:\users\tsvetoslav\documents\visual studio 2012\Projects\objects\tickCount\bin\Debug\tickCount.exe.config
+c:\users\tsvetoslav\documents\visual studio 2012\Projects\objects\tickCount\bin\Debug\tickCount.exe
+c:\users\tsvetoslav\documents\visual studio 2012\Projects\objects\tickCount\bin\Debug\tickCount.pdb
+c:\users\tsvetoslav\documents\visual studio 2012\Projects\objects\tickCount\obj\Debug\tickCount.csprojResolveAssemblyReference.cache
+c:\users\tsvetoslav\documents\visual studio 2012\Projects\objects\tickCount\obj\Debug\tickCount.exe
+c:\users\tsvetoslav\documents\visual studio 2012\Projects\objects\tickCount\obj\Debug\tickCount.pdb

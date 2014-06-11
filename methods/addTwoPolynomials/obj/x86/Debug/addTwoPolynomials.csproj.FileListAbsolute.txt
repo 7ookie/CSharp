@@ -1,0 +1,10 @@
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\methods\addTwoPolynomials\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\methods\addTwoPolynomials\bin\Debug\addTwoPolynomials.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\methods\addTwoPolynomials\bin\Debug\addTwoPolynomials.pdb
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\methods\addTwoPolynomials\obj\x86\Debug\addTwoPolynomials.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\methods\addTwoPolynomials\obj\x86\Debug\addTwoPolynomials.pdb
+C:\Users\Tsvetoslav\Documents\Visual Studio 2012\Projects\methods\addTwoPolynomials\obj\x86\Debug\addTwoPolynomials.exe
+C:\Users\Tsvetoslav\Documents\Visual Studio 2012\Projects\methods\addTwoPolynomials\obj\x86\Debug\addTwoPolynomials.pdb
+C:\Users\Tsvetoslav\Documents\Visual Studio 2012\Projects\methods\addTwoPolynomials\obj\x86\Debug\addTwoPolynomials.csprojResolveAssemblyReference.cache
+C:\Users\Tsvetoslav\Documents\Visual Studio 2012\Projects\methods\addTwoPolynomials\bin\Debug\addTwoPolynomials.exe
+C:\Users\Tsvetoslav\Documents\Visual Studio 2012\Projects\methods\addTwoPolynomials\bin\Debug\addTwoPolynomials.pdb

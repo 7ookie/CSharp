@@ -1,0 +1,6 @@
+C:\Users\Tsvetoslav\Documents\Visual Studio 2012\Projects\objects\sumString\bin\Debug\sumString.exe.config
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\objects\sumString\obj\Debug\sumString.csprojResolveAssemblyReference.cache
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\objects\sumString\bin\Debug\sumString.exe
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\objects\sumString\bin\Debug\sumString.pdb
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\objects\sumString\obj\Debug\sumString.exe
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\objects\sumString\obj\Debug\sumString.pdb

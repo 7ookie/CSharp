@@ -1,0 +1,5 @@
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\conditionalStatements\quadraticEquation\bin\Debug\quadraticEquation.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\conditionalStatements\quadraticEquation\bin\Debug\quadraticEquation.pdb
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\conditionalStatements\quadraticEquation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\conditionalStatements\quadraticEquation\obj\x86\Debug\quadraticEquation.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\conditionalStatements\quadraticEquation\obj\x86\Debug\quadraticEquation.pdb

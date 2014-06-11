@@ -1,0 +1,5 @@
+c:\documents and settings\54\my documents\visual studio 2010\Projects\introToProgramming\printFirstTenMembers\bin\Debug\printFirstTenMembers.exe
+c:\documents and settings\54\my documents\visual studio 2010\Projects\introToProgramming\printFirstTenMembers\bin\Debug\printFirstTenMembers.pdb
+c:\documents and settings\54\my documents\visual studio 2010\Projects\introToProgramming\printFirstTenMembers\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\54\my documents\visual studio 2010\Projects\introToProgramming\printFirstTenMembers\obj\x86\Debug\printFirstTenMembers.exe
+c:\documents and settings\54\my documents\visual studio 2010\Projects\introToProgramming\printFirstTenMembers\obj\x86\Debug\printFirstTenMembers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\reverseSentence\bin\Debug\reverseSentence.exe.config
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\reverseSentence\obj\Debug\reverseSentence.csprojResolveAssemblyReference.cache
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\reverseSentence\bin\Debug\reverseSentence.exe
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\reverseSentence\bin\Debug\reverseSentence.pdb
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\reverseSentence\obj\Debug\reverseSentence.exe
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\reverseSentence\obj\Debug\reverseSentence.pdb

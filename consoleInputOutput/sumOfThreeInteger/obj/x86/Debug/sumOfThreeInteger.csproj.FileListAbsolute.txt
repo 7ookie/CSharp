@@ -1,0 +1,5 @@
+c:\documents and settings\54\my documents\visual studio 2010\Projects\consoleInputOutput\sumOfThreeInteger\bin\Debug\sumOfThreeInteger.exe
+c:\documents and settings\54\my documents\visual studio 2010\Projects\consoleInputOutput\sumOfThreeInteger\bin\Debug\sumOfThreeInteger.pdb
+c:\documents and settings\54\my documents\visual studio 2010\Projects\consoleInputOutput\sumOfThreeInteger\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\54\my documents\visual studio 2010\Projects\consoleInputOutput\sumOfThreeInteger\obj\x86\Debug\sumOfThreeInteger.exe
+c:\documents and settings\54\my documents\visual studio 2010\Projects\consoleInputOutput\sumOfThreeInteger\obj\x86\Debug\sumOfThreeInteger.pdb

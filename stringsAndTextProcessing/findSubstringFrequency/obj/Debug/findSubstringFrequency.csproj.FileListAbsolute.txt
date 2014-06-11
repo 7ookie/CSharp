@@ -1,0 +1,6 @@
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\findSubstringFrequency\bin\Debug\findSubstringFrequency.exe.config
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\findSubstringFrequency\obj\Debug\findSubstringFrequency.csprojResolveAssemblyReference.cache
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\findSubstringFrequency\bin\Debug\findSubstringFrequency.exe
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\findSubstringFrequency\bin\Debug\findSubstringFrequency.pdb
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\findSubstringFrequency\obj\Debug\findSubstringFrequency.exe
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\findSubstringFrequency\obj\Debug\findSubstringFrequency.pdb

@@ -1,0 +1,6 @@
+c:\users\tsvetoslav\documents\visual studio 2012\Projects\exceptios\calcNPrintSquareRoot\bin\Debug\calcNPrintSquareRoot.exe.config
+c:\users\tsvetoslav\documents\visual studio 2012\Projects\exceptios\calcNPrintSquareRoot\obj\Debug\calcNPrintSquareRoot.csprojResolveAssemblyReference.cache
+c:\users\tsvetoslav\documents\visual studio 2012\Projects\exceptios\calcNPrintSquareRoot\bin\Debug\calcNPrintSquareRoot.exe
+c:\users\tsvetoslav\documents\visual studio 2012\Projects\exceptios\calcNPrintSquareRoot\bin\Debug\calcNPrintSquareRoot.pdb
+c:\users\tsvetoslav\documents\visual studio 2012\Projects\exceptios\calcNPrintSquareRoot\obj\Debug\calcNPrintSquareRoot.exe
+c:\users\tsvetoslav\documents\visual studio 2012\Projects\exceptios\calcNPrintSquareRoot\obj\Debug\calcNPrintSquareRoot.pdb

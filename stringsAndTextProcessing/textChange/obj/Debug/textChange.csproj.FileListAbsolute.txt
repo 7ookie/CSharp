@@ -1,0 +1,6 @@
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\textChange\bin\Debug\textChange.exe.config
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\textChange\obj\Debug\textChange.csprojResolveAssemblyReference.cache
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\textChange\bin\Debug\textChange.exe
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\textChange\bin\Debug\textChange.pdb
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\textChange\obj\Debug\textChange.exe
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\textChange\obj\Debug\textChange.pdb

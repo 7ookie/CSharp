@@ -1,0 +1,5 @@
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\conditionalStatements\convertNumberInText\bin\Debug\convertNumberInText.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\conditionalStatements\convertNumberInText\bin\Debug\convertNumberInText.pdb
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\conditionalStatements\convertNumberInText\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\conditionalStatements\convertNumberInText\obj\x86\Debug\convertNumberInText.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\conditionalStatements\convertNumberInText\obj\x86\Debug\convertNumberInText.pdb

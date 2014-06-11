@@ -1,0 +1,5 @@
+c:\documents and settings\54\my documents\visual studio 2010\Projects\operatorsExpressionsAndStatements\calculateRectangleArea\bin\Debug\calculateRectangleArea.exe
+c:\documents and settings\54\my documents\visual studio 2010\Projects\operatorsExpressionsAndStatements\calculateRectangleArea\bin\Debug\calculateRectangleArea.pdb
+c:\documents and settings\54\my documents\visual studio 2010\Projects\operatorsExpressionsAndStatements\calculateRectangleArea\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\54\my documents\visual studio 2010\Projects\operatorsExpressionsAndStatements\calculateRectangleArea\obj\x86\Debug\calculateRectangleArea.exe
+c:\documents and settings\54\my documents\visual studio 2010\Projects\operatorsExpressionsAndStatements\calculateRectangleArea\obj\x86\Debug\calculateRectangleArea.pdb

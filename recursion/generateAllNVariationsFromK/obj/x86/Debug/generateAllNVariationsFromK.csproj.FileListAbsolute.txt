@@ -1,0 +1,5 @@
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\recursion\generateAllNVariationsFromK\bin\Debug\generateAllNVariationsFromK.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\recursion\generateAllNVariationsFromK\bin\Debug\generateAllNVariationsFromK.pdb
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\recursion\generateAllNVariationsFromK\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\recursion\generateAllNVariationsFromK\obj\x86\Debug\generateAllNVariationsFromK.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\recursion\generateAllNVariationsFromK\obj\x86\Debug\generateAllNVariationsFromK.pdb

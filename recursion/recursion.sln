@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "recursiveNNestedLoops", "ConsoleApplication1\recursiveNNestedLoops.csproj", "{812CACB6-7E20-40AE-9DFA-98A11815852A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "printKElemOfNElemSet", "printKElemOfNElemSet\printKElemOfNElemSet.csproj", "{D3B8EB2E-7A2D-4F72-AE18-5C667767A93C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "generateAllNVariationsFromK", "generateAllNVariationsFromK\generateAllNVariationsFromK.csproj", "{BFEC876D-92E2-4020-84CC-A8F73531A894}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "generateStringSet", "generateStringSet\generateStringSet.csproj", "{71251D0C-C53B-4C80-9415-C17E3D3EAD17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{812CACB6-7E20-40AE-9DFA-98A11815852A}.Debug|x86.ActiveCfg = Debug|x86
+		{812CACB6-7E20-40AE-9DFA-98A11815852A}.Debug|x86.Build.0 = Debug|x86
+		{812CACB6-7E20-40AE-9DFA-98A11815852A}.Release|x86.ActiveCfg = Release|x86
+		{812CACB6-7E20-40AE-9DFA-98A11815852A}.Release|x86.Build.0 = Release|x86
+		{D3B8EB2E-7A2D-4F72-AE18-5C667767A93C}.Debug|x86.ActiveCfg = Debug|x86
+		{D3B8EB2E-7A2D-4F72-AE18-5C667767A93C}.Debug|x86.Build.0 = Debug|x86
+		{D3B8EB2E-7A2D-4F72-AE18-5C667767A93C}.Release|x86.ActiveCfg = Release|x86
+		{D3B8EB2E-7A2D-4F72-AE18-5C667767A93C}.Release|x86.Build.0 = Release|x86
+		{BFEC876D-92E2-4020-84CC-A8F73531A894}.Debug|x86.ActiveCfg = Debug|x86
+		{BFEC876D-92E2-4020-84CC-A8F73531A894}.Debug|x86.Build.0 = Debug|x86
+		{BFEC876D-92E2-4020-84CC-A8F73531A894}.Release|x86.ActiveCfg = Release|x86
+		{BFEC876D-92E2-4020-84CC-A8F73531A894}.Release|x86.Build.0 = Release|x86
+		{71251D0C-C53B-4C80-9415-C17E3D3EAD17}.Debug|x86.ActiveCfg = Debug|x86
+		{71251D0C-C53B-4C80-9415-C17E3D3EAD17}.Debug|x86.Build.0 = Debug|x86
+		{71251D0C-C53B-4C80-9415-C17E3D3EAD17}.Release|x86.ActiveCfg = Release|x86
+		{71251D0C-C53B-4C80-9415-C17E3D3EAD17}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

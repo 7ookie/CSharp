@@ -1,0 +1,5 @@
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\loops\calcTrailingZeros\bin\Debug\calcTrailingZeros.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\loops\calcTrailingZeros\bin\Debug\calcTrailingZeros.pdb
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\loops\calcTrailingZeros\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\loops\calcTrailingZeros\obj\x86\Debug\calcTrailingZeros.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\loops\calcTrailingZeros\obj\x86\Debug\calcTrailingZeros.pdb

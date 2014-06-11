@@ -1,0 +1,5 @@
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\arrays\maximalRow\bin\Debug\maximalRow.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\arrays\maximalRow\bin\Debug\maximalRow.pdb
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\arrays\maximalRow\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\arrays\maximalRow\obj\x86\Debug\maximalRow.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\arrays\maximalRow\obj\x86\Debug\maximalRow.pdb

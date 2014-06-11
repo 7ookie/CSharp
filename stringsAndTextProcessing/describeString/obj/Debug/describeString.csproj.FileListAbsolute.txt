@@ -1,0 +1,6 @@
+c:\users\tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\describeString\bin\Debug\describeString.exe.config
+c:\users\tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\describeString\bin\Debug\describeString.exe
+c:\users\tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\describeString\bin\Debug\describeString.pdb
+c:\users\tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\describeString\obj\Debug\describeString.csprojResolveAssemblyReference.cache
+c:\users\tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\describeString\obj\Debug\describeString.exe
+c:\users\tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\describeString\obj\Debug\describeString.pdb

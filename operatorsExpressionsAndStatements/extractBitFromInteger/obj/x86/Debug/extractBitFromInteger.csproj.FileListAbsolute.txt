@@ -1,0 +1,5 @@
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\operatorsExpressionsAndStatements\extractBitFromInteger\bin\Debug\extractBitFromInteger.exe
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\operatorsExpressionsAndStatements\extractBitFromInteger\bin\Debug\extractBitFromInteger.pdb
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\operatorsExpressionsAndStatements\extractBitFromInteger\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\operatorsExpressionsAndStatements\extractBitFromInteger\obj\x86\Debug\extractBitFromInteger.exe
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\operatorsExpressionsAndStatements\extractBitFromInteger\obj\x86\Debug\extractBitFromInteger.pdb

@@ -1,0 +1,6 @@
+C:\Users\Tsvetoslav\Documents\Visual Studio 2012\Projects\stringsAndTextProcessing\encodeNDecodeString\bin\Debug\encodeNDecodeString.exe.config
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\encodeNDecodeString\bin\Debug\encodeNDecodeString.exe
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\encodeNDecodeString\bin\Debug\encodeNDecodeString.pdb
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\encodeNDecodeString\obj\Debug\encodeNDecodeString.csprojResolveAssemblyReference.cache
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\encodeNDecodeString\obj\Debug\encodeNDecodeString.exe
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\encodeNDecodeString\obj\Debug\encodeNDecodeString.pdb

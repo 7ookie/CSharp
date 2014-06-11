@@ -1,0 +1,5 @@
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\conditionalStatements\usersChoiceInputs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\conditionalStatements\usersChoiceInputs\bin\Debug\usersChoiceInputs.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\conditionalStatements\usersChoiceInputs\bin\Debug\usersChoiceInputs.pdb
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\conditionalStatements\usersChoiceInputs\obj\x86\Debug\usersChoiceInputs.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\conditionalStatements\usersChoiceInputs\obj\x86\Debug\usersChoiceInputs.pdb

@@ -1,0 +1,6 @@
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\parsesAnURL\bin\Debug\parsesAnURL.exe.config
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\parsesAnURL\obj\Debug\parsesAnURL.csprojResolveAssemblyReference.cache
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\parsesAnURL\bin\Debug\parsesAnURL.exe
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\parsesAnURL\bin\Debug\parsesAnURL.pdb
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\parsesAnURL\obj\Debug\parsesAnURL.exe
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\parsesAnURL\obj\Debug\parsesAnURL.pdb

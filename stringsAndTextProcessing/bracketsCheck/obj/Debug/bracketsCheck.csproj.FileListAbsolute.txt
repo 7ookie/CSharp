@@ -1,0 +1,6 @@
+c:\users\tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\bracketsCheck\bin\Debug\bracketsCheck.exe.config
+c:\users\tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\bracketsCheck\bin\Debug\bracketsCheck.exe
+c:\users\tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\bracketsCheck\bin\Debug\bracketsCheck.pdb
+c:\users\tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\bracketsCheck\obj\Debug\bracketsCheck.csprojResolveAssemblyReference.cache
+c:\users\tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\bracketsCheck\obj\Debug\bracketsCheck.exe
+c:\users\tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\bracketsCheck\obj\Debug\bracketsCheck.pdb

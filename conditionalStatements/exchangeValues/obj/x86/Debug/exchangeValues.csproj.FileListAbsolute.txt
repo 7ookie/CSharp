@@ -1,0 +1,5 @@
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\conditionalStatements\exchangeValues\bin\Debug\exchangeValues.exe
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\conditionalStatements\exchangeValues\bin\Debug\exchangeValues.pdb
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\conditionalStatements\exchangeValues\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\conditionalStatements\exchangeValues\obj\x86\Debug\exchangeValues.exe
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\conditionalStatements\exchangeValues\obj\x86\Debug\exchangeValues.pdb

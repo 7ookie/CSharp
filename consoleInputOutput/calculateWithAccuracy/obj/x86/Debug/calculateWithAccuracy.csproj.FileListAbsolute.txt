@@ -1,0 +1,5 @@
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\consoleInputOutput\calculateWithAccuracy\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\consoleInputOutput\calculateWithAccuracy\bin\Debug\calculateWithAccuracy.exe
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\consoleInputOutput\calculateWithAccuracy\bin\Debug\calculateWithAccuracy.pdb
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\consoleInputOutput\calculateWithAccuracy\obj\x86\Debug\calculateWithAccuracy.exe
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\consoleInputOutput\calculateWithAccuracy\obj\x86\Debug\calculateWithAccuracy.pdb

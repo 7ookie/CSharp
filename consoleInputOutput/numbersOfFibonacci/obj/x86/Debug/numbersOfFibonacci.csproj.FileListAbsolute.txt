@@ -1,0 +1,5 @@
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\consoleInputOutput\numbersOfFibonacci\bin\Debug\numbersOfFibonacci.exe
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\consoleInputOutput\numbersOfFibonacci\bin\Debug\numbersOfFibonacci.pdb
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\consoleInputOutput\numbersOfFibonacci\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\consoleInputOutput\numbersOfFibonacci\obj\x86\Debug\numbersOfFibonacci.exe
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\consoleInputOutput\numbersOfFibonacci\obj\x86\Debug\numbersOfFibonacci.pdb

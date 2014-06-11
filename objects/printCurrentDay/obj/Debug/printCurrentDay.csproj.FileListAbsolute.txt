@@ -1,0 +1,6 @@
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\objects\printCurrentDay\bin\Debug\printCurrentDay.exe.config
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\objects\printCurrentDay\bin\Debug\printCurrentDay.exe
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\objects\printCurrentDay\bin\Debug\printCurrentDay.pdb
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\objects\printCurrentDay\obj\Debug\printCurrentDay.exe
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\objects\printCurrentDay\obj\Debug\printCurrentDay.pdb
+C:\Users\Tsvetoslav\Documents\Visual Studio 2012\Projects\objects\printCurrentDay\obj\Debug\printCurrentDay.csprojResolveAssemblyReference.cache

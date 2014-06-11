@@ -1,0 +1,5 @@
+c:\documents and settings\54\my documents\visual studio 2010\Projects\primitiveDataTypes\exchangeIntegerValues\bin\Debug\exchangeIntegerValues.exe
+c:\documents and settings\54\my documents\visual studio 2010\Projects\primitiveDataTypes\exchangeIntegerValues\bin\Debug\exchangeIntegerValues.pdb
+c:\documents and settings\54\my documents\visual studio 2010\Projects\primitiveDataTypes\exchangeIntegerValues\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\54\my documents\visual studio 2010\Projects\primitiveDataTypes\exchangeIntegerValues\obj\x86\Debug\exchangeIntegerValues.exe
+c:\documents and settings\54\my documents\visual studio 2010\Projects\primitiveDataTypes\exchangeIntegerValues\obj\x86\Debug\exchangeIntegerValues.pdb

@@ -1,0 +1,5 @@
+c:\documents and settings\54\my documents\visual studio 2010\Projects\loops\printNNumbersByThreeNSeven\bin\Debug\printNNumbersByThreeNSeven.exe
+c:\documents and settings\54\my documents\visual studio 2010\Projects\loops\printNNumbersByThreeNSeven\bin\Debug\printNNumbersByThreeNSeven.pdb
+c:\documents and settings\54\my documents\visual studio 2010\Projects\loops\printNNumbersByThreeNSeven\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\54\my documents\visual studio 2010\Projects\loops\printNNumbersByThreeNSeven\obj\x86\Debug\printNNumbersByThreeNSeven.exe
+c:\documents and settings\54\my documents\visual studio 2010\Projects\loops\printNNumbersByThreeNSeven\obj\x86\Debug\printNNumbersByThreeNSeven.pdb

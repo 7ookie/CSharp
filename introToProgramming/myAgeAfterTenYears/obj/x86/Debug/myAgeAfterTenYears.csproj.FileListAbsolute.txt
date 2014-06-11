@@ -1,0 +1,5 @@
+c:\documents and settings\54\my documents\visual studio 2010\Projects\introToProgramming\myAgeAfterTenYears\bin\Debug\myAgeAfterTenYears.exe
+c:\documents and settings\54\my documents\visual studio 2010\Projects\introToProgramming\myAgeAfterTenYears\bin\Debug\myAgeAfterTenYears.pdb
+c:\documents and settings\54\my documents\visual studio 2010\Projects\introToProgramming\myAgeAfterTenYears\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\54\my documents\visual studio 2010\Projects\introToProgramming\myAgeAfterTenYears\obj\x86\Debug\myAgeAfterTenYears.exe
+c:\documents and settings\54\my documents\visual studio 2010\Projects\introToProgramming\myAgeAfterTenYears\obj\x86\Debug\myAgeAfterTenYears.pdb

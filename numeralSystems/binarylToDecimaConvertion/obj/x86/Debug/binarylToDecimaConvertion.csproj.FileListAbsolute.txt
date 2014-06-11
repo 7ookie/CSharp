@@ -1,0 +1,5 @@
+c:\documents and settings\54\my documents\visual studio 2010\Projects\numeralSystems\binarylToDecimaConvertion\bin\Debug\binarylToDecimaConvertion.exe
+c:\documents and settings\54\my documents\visual studio 2010\Projects\numeralSystems\binarylToDecimaConvertion\bin\Debug\binarylToDecimaConvertion.pdb
+c:\documents and settings\54\my documents\visual studio 2010\Projects\numeralSystems\binarylToDecimaConvertion\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\54\my documents\visual studio 2010\Projects\numeralSystems\binarylToDecimaConvertion\obj\x86\Debug\binarylToDecimaConvertion.exe
+c:\documents and settings\54\my documents\visual studio 2010\Projects\numeralSystems\binarylToDecimaConvertion\obj\x86\Debug\binarylToDecimaConvertion.pdb

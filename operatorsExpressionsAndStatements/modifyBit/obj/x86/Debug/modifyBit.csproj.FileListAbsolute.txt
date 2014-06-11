@@ -1,0 +1,5 @@
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\operatorsExpressionsAndStatements\modifyBit\bin\Debug\modifyBit.exe
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\operatorsExpressionsAndStatements\modifyBit\bin\Debug\modifyBit.pdb
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\operatorsExpressionsAndStatements\modifyBit\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\operatorsExpressionsAndStatements\modifyBit\obj\x86\Debug\modifyBit.exe
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\operatorsExpressionsAndStatements\modifyBit\obj\x86\Debug\modifyBit.pdb

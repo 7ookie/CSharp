@@ -1,0 +1,5 @@
+c:\documents and settings\54\my documents\visual studio 2010\Projects\numeralSystems\decimalToBinaryConvertion\bin\Debug\decimalToBinaryConvertion.exe
+c:\documents and settings\54\my documents\visual studio 2010\Projects\numeralSystems\decimalToBinaryConvertion\bin\Debug\decimalToBinaryConvertion.pdb
+c:\documents and settings\54\my documents\visual studio 2010\Projects\numeralSystems\decimalToBinaryConvertion\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\54\my documents\visual studio 2010\Projects\numeralSystems\decimalToBinaryConvertion\obj\x86\Debug\decimalToBinaryConvertion.exe
+c:\documents and settings\54\my documents\visual studio 2010\Projects\numeralSystems\decimalToBinaryConvertion\obj\x86\Debug\decimalToBinaryConvertion.pdb

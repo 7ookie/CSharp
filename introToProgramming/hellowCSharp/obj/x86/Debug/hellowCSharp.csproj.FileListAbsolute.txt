@@ -1,0 +1,5 @@
+c:\documents and settings\54\my documents\visual studio 2010\Projects\introToProgramming\hellowCSharp\bin\Debug\hellowCSharp.exe
+c:\documents and settings\54\my documents\visual studio 2010\Projects\introToProgramming\hellowCSharp\bin\Debug\hellowCSharp.pdb
+c:\documents and settings\54\my documents\visual studio 2010\Projects\introToProgramming\hellowCSharp\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\54\my documents\visual studio 2010\Projects\introToProgramming\hellowCSharp\obj\x86\Debug\hellowCSharp.exe
+c:\documents and settings\54\my documents\visual studio 2010\Projects\introToProgramming\hellowCSharp\obj\x86\Debug\hellowCSharp.pdb

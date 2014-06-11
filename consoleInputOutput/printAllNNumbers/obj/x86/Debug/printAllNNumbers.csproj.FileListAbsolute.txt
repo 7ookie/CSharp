@@ -1,0 +1,5 @@
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\consoleInputOutput\printAllNNumbers\bin\Debug\printAllNNumbers.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\consoleInputOutput\printAllNNumbers\bin\Debug\printAllNNumbers.pdb
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\consoleInputOutput\printAllNNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\consoleInputOutput\printAllNNumbers\obj\x86\Debug\printAllNNumbers.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\consoleInputOutput\printAllNNumbers\obj\x86\Debug\printAllNNumbers.pdb

@@ -1,0 +1,7 @@
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\recursion\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\recursion\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\recursion\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\recursion\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\recursion\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Tsvetoslav\Documents\Visual Studio 2012\Projects\recursion\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Tsvetoslav\Documents\Visual Studio 2012\Projects\recursion\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,10 @@
+c:\documents and settings\54\my documents\visual studio 2010\Projects\methods\returnLastDigit\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\54\my documents\visual studio 2010\Projects\methods\returnLastDigit\bin\Debug\returnLastDigit.exe
+c:\documents and settings\54\my documents\visual studio 2010\Projects\methods\returnLastDigit\bin\Debug\returnLastDigit.pdb
+c:\documents and settings\54\my documents\visual studio 2010\Projects\methods\returnLastDigit\obj\x86\Debug\returnLastDigit.exe
+c:\documents and settings\54\my documents\visual studio 2010\Projects\methods\returnLastDigit\obj\x86\Debug\returnLastDigit.pdb
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\methods\returnLastDigit\bin\Debug\returnLastDigit.exe
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\methods\returnLastDigit\bin\Debug\returnLastDigit.pdb
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\methods\returnLastDigit\obj\x86\Debug\returnLastDigit.csprojResolveAssemblyReference.cache
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\methods\returnLastDigit\obj\x86\Debug\returnLastDigit.exe
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\methods\returnLastDigit\obj\x86\Debug\returnLastDigit.pdb

@@ -1,0 +1,6 @@
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\replaceForbiddenWords\bin\Debug\replaceForbiddenWords.exe.config
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\replaceForbiddenWords\bin\Debug\replaceForbiddenWords.exe
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\replaceForbiddenWords\bin\Debug\replaceForbiddenWords.pdb
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\replaceForbiddenWords\obj\Debug\replaceForbiddenWords.csprojResolveAssemblyReference.cache
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\replaceForbiddenWords\obj\Debug\replaceForbiddenWords.exe
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\replaceForbiddenWords\obj\Debug\replaceForbiddenWords.pdb

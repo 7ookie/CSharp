@@ -1,0 +1,5 @@
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\arrays\distinctElements\bin\Debug\distinctElements.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\arrays\distinctElements\bin\Debug\distinctElements.pdb
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\arrays\distinctElements\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\arrays\distinctElements\obj\x86\Debug\distinctElements.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\arrays\distinctElements\obj\x86\Debug\distinctElements.pdb

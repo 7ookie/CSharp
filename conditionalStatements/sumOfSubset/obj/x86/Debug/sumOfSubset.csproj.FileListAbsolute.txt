@@ -1,0 +1,5 @@
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\conditionalStatements\sumOfSubset\bin\Debug\sumOfSubset.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\conditionalStatements\sumOfSubset\bin\Debug\sumOfSubset.pdb
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\conditionalStatements\sumOfSubset\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\conditionalStatements\sumOfSubset\obj\x86\Debug\sumOfSubset.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\conditionalStatements\sumOfSubset\obj\x86\Debug\sumOfSubset.pdb

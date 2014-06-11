@@ -1,0 +1,6 @@
+c:\users\tsvetoslav\documents\visual studio 2012\Projects\exceptios\methodReadNumber\bin\Debug\methodReadNumber.exe.config
+c:\users\tsvetoslav\documents\visual studio 2012\Projects\exceptios\methodReadNumber\bin\Debug\methodReadNumber.exe
+c:\users\tsvetoslav\documents\visual studio 2012\Projects\exceptios\methodReadNumber\bin\Debug\methodReadNumber.pdb
+c:\users\tsvetoslav\documents\visual studio 2012\Projects\exceptios\methodReadNumber\obj\Debug\methodReadNumber.exe
+c:\users\tsvetoslav\documents\visual studio 2012\Projects\exceptios\methodReadNumber\obj\Debug\methodReadNumber.pdb
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\exceptios\methodReadNumber\obj\Debug\methodReadNumber.csprojResolveAssemblyReference.cache

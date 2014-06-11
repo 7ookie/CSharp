@@ -1,0 +1,6 @@
+C:\Users\Tsvetoslav\Documents\Visual Studio 2012\Projects\methods\sumTwoPolinoms\bin\Debug\sumTwoPolinoms.exe.config
+C:\Users\Tsvetoslav\Documents\Visual Studio 2012\Projects\methods\sumTwoPolinoms\bin\Debug\sumTwoPolinoms.exe
+C:\Users\Tsvetoslav\Documents\Visual Studio 2012\Projects\methods\sumTwoPolinoms\bin\Debug\sumTwoPolinoms.pdb
+C:\Users\Tsvetoslav\Documents\Visual Studio 2012\Projects\methods\sumTwoPolinoms\obj\Debug\sumTwoPolynomials.csprojResolveAssemblyReference.cache
+C:\Users\Tsvetoslav\Documents\Visual Studio 2012\Projects\methods\sumTwoPolinoms\obj\Debug\sumTwoPolinoms.exe
+C:\Users\Tsvetoslav\Documents\Visual Studio 2012\Projects\methods\sumTwoPolinoms\obj\Debug\sumTwoPolinoms.pdb

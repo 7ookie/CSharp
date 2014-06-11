@@ -1,0 +1,6 @@
+C:\Users\Tsvetoslav\Documents\Visual Studio 2012\Projects\stringsAndTextProcessing\twentyCharacters\bin\Debug\twentyCharacters.exe.config
+C:\Users\Tsvetoslav\Documents\Visual Studio 2012\Projects\stringsAndTextProcessing\twentyCharacters\obj\Debug\twentyCharacters.csprojResolveAssemblyReference.cache
+C:\Users\Tsvetoslav\Documents\Visual Studio 2012\Projects\stringsAndTextProcessing\twentyCharacters\bin\Debug\twentyCharacters.exe
+C:\Users\Tsvetoslav\Documents\Visual Studio 2012\Projects\stringsAndTextProcessing\twentyCharacters\bin\Debug\twentyCharacters.pdb
+C:\Users\Tsvetoslav\Documents\Visual Studio 2012\Projects\stringsAndTextProcessing\twentyCharacters\obj\Debug\twentyCharacters.exe
+C:\Users\Tsvetoslav\Documents\Visual Studio 2012\Projects\stringsAndTextProcessing\twentyCharacters\obj\Debug\twentyCharacters.pdb

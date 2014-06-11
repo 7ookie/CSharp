@@ -1,0 +1,5 @@
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\arrays\quickSort\bin\Debug\quickSort.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\arrays\quickSort\bin\Debug\quickSort.pdb
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\arrays\quickSort\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\arrays\quickSort\obj\x86\Debug\quickSort.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\arrays\quickSort\obj\x86\Debug\quickSort.pdb

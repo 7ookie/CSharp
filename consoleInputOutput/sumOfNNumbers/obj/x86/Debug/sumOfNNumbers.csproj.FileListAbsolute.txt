@@ -1,0 +1,5 @@
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\consoleInputOutput\sumOfNNumbers\bin\Debug\sumOfNNumbers.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\consoleInputOutput\sumOfNNumbers\bin\Debug\sumOfNNumbers.pdb
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\consoleInputOutput\sumOfNNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\consoleInputOutput\sumOfNNumbers\obj\x86\Debug\sumOfNNumbers.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\consoleInputOutput\sumOfNNumbers\obj\x86\Debug\sumOfNNumbers.pdb

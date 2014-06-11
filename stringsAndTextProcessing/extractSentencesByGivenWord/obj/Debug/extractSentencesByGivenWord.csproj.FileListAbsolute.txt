@@ -1,0 +1,6 @@
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\extractSentencesByGivenWord\bin\Debug\extractSentencesByGivenWord.exe.config
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\extractSentencesByGivenWord\bin\Debug\extractSentencesByGivenWord.exe
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\extractSentencesByGivenWord\bin\Debug\extractSentencesByGivenWord.pdb
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\extractSentencesByGivenWord\obj\Debug\extractSentencesByGivenWord.exe
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\extractSentencesByGivenWord\obj\Debug\extractSentencesByGivenWord.pdb
+C:\Users\Tsvetoslav\documents\visual studio 2012\Projects\stringsAndTextProcessing\extractSentencesByGivenWord\obj\Debug\extractSentencesByGivenWord.csprojResolveAssemblyReference.cache

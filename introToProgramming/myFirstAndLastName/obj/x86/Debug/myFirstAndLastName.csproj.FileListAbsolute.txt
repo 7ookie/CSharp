@@ -1,0 +1,5 @@
+c:\documents and settings\54\my documents\visual studio 2010\Projects\introToProgramming\myFirstAndLastName\bin\Debug\myFirstAndLastName.exe
+c:\documents and settings\54\my documents\visual studio 2010\Projects\introToProgramming\myFirstAndLastName\bin\Debug\myFirstAndLastName.pdb
+c:\documents and settings\54\my documents\visual studio 2010\Projects\introToProgramming\myFirstAndLastName\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\54\my documents\visual studio 2010\Projects\introToProgramming\myFirstAndLastName\obj\x86\Debug\myFirstAndLastName.exe
+c:\documents and settings\54\my documents\visual studio 2010\Projects\introToProgramming\myFirstAndLastName\obj\x86\Debug\myFirstAndLastName.pdb

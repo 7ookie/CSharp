@@ -1,0 +1,5 @@
+c:\documents and settings\54\my documents\visual studio 2010\Projects\introToProgramming\currentDateTime\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\54\my documents\visual studio 2010\Projects\introToProgramming\currentDateTime\bin\Debug\currentDateTime.exe
+c:\documents and settings\54\my documents\visual studio 2010\Projects\introToProgramming\currentDateTime\bin\Debug\currentDateTime.pdb
+c:\documents and settings\54\my documents\visual studio 2010\Projects\introToProgramming\currentDateTime\obj\x86\Debug\currentDateTime.exe
+c:\documents and settings\54\my documents\visual studio 2010\Projects\introToProgramming\currentDateTime\obj\x86\Debug\currentDateTime.pdb

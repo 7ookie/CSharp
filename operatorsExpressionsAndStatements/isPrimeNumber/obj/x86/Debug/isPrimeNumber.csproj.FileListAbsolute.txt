@@ -1,0 +1,5 @@
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\operatorsExpressionsAndStatements\isPrimeNumber\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\operatorsExpressionsAndStatements\isPrimeNumber\bin\Debug\isPrimeNumber.exe
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\operatorsExpressionsAndStatements\isPrimeNumber\bin\Debug\isPrimeNumber.pdb
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\operatorsExpressionsAndStatements\isPrimeNumber\obj\x86\Debug\isPrimeNumber.exe
+C:\Documents and Settings\54\My Documents\Visual Studio 2010\Projects\operatorsExpressionsAndStatements\isPrimeNumber\obj\x86\Debug\isPrimeNumber.pdb

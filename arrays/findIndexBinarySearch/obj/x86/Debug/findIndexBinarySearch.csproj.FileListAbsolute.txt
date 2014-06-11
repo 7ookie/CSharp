@@ -1,0 +1,5 @@
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\arrays\findIndexBinarySearch\bin\Debug\findIndexBinarySearch.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\arrays\findIndexBinarySearch\bin\Debug\findIndexBinarySearch.pdb
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\arrays\findIndexBinarySearch\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\arrays\findIndexBinarySearch\obj\x86\Debug\findIndexBinarySearch.exe
+C:\Documents and Settings\54\my documents\visual studio 2010\Projects\arrays\findIndexBinarySearch\obj\x86\Debug\findIndexBinarySearch.pdb
